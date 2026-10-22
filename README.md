@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Neural-Search-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Neural-Search-Frameworks?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Neural-Search-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Neural-Search-Frameworks?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Search-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Neural-Search-Frameworks?style=flat-square&logo=github" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Search-Frameworks/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Neural-Search-Frameworks/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -91,11 +91,11 @@ The table below catalogs premier hosted and fully managed SaaS neural search pla
 
 ## ⚡ Open-Source Neural Search Frameworks (Ranked by Stars)
 
-Below is the definitive collection of open-source neural search platforms, vector databases, and similarity engines, **strictly ranked in descending order by GitHub stargazers**. Each project features an official social star badge linking directly to its stargazer community.
+Below is the definitive collection of open-source neural search platforms, vector databases, and similarity engines, **strictly ranked in descending order by GitHub stargazers**. Each project features an official social Stars_Badge linking directly to its stargazer community.
 
 ---
 
-### 1. 🔍 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
+### 1. 🔍 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 
 - **Repository**: [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
 - **License**: Elastic License 2.0 / SSPL
@@ -109,7 +109,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 2. ⚡ [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
+### 2. ⚡ [Meilisearch](https://github.com/meilisearch/meilisearch) [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)
 
 - **Repository**: [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
 - **License**: MIT
@@ -123,7 +123,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 3. 🛡️ [Milvus](https://github.com/milvus-io/milvus) [![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)
+### 3. 🛡️ [Milvus](https://github.com/milvus-io/milvus) [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)
 
 - **Repository**: [milvus-io/milvus](https://github.com/milvus-io/milvus)
 - **License**: Apache 2.0
@@ -137,7 +137,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 4. 🧮 [FAISS](https://github.com/facebookresearch/faiss) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/faiss?style=social&color=white)](https://github.com/facebookresearch/faiss/stargazers)
+### 4. 🧮 [FAISS](https://github.com/facebookresearch/faiss) [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/faiss?style=social&color=white)](https://github.com/facebookresearch/faiss/stargazers)
 
 - **Repository**: [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 - **License**: MIT
@@ -151,7 +151,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 5. 🦀 [Qdrant](https://github.com/qdrant/qdrant) [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)
+### 5. 🦀 [Qdrant](https://github.com/qdrant/qdrant) [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)
 
 - **Repository**: [qdrant/qdrant](https://github.com/qdrant/qdrant)
 - **License**: Apache 2.0
@@ -165,7 +165,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 6. 🎨 [Chroma](https://github.com/chroma-core/chroma) [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)
+### 6. 🎨 [Chroma](https://github.com/chroma-core/chroma) [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers)
 
 - **Repository**: [chroma-core/chroma](https://github.com/chroma-core/chroma)
 - **License**: Apache 2.0
@@ -179,7 +179,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 7. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
+### 7. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
 
 - **Repository**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 - **License**: Apache 2.0
@@ -193,7 +193,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 8. 🐘 [pgvector](https://github.com/pgvector/pgvector) [![GitHub stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers)
+### 8. 🐘 [pgvector](https://github.com/pgvector/pgvector) [![GitHub_Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers)
 
 - **Repository**: [pgvector/pgvector](https://github.com/pgvector/pgvector)
 - **License**: PostgreSQL License (BSD-style)
@@ -207,7 +207,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 9. ☁️ [Jina](https://github.com/jina-ai/jina) [![GitHub stars](https://img.shields.io/github/stars/jina-ai/jina?style=social&color=white)](https://github.com/jina-ai/jina/stargazers)
+### 9. ☁️ [Jina](https://github.com/jina-ai/jina) [![GitHub_Stars](https://img.shields.io/github/stars/jina-ai/jina?style=social&color=white)](https://github.com/jina-ai/jina/stargazers)
 
 - **Repository**: [jina-ai/jina](https://github.com/jina-ai/jina)
 - **License**: Apache 2.0
@@ -221,7 +221,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 10. 🌐 [Weaviate](https://github.com/weaviate/weaviate) [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)
+### 10. 🌐 [Weaviate](https://github.com/weaviate/weaviate) [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers)
 
 - **Repository**: [weaviate/weaviate](https://github.com/weaviate/weaviate)
 - **License**: BSD-3-Clause
@@ -235,7 +235,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 11. 🔎 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
+### 11. 🔎 [OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)
 
 - **Repository**: [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - **License**: Apache 2.0
@@ -249,7 +249,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 12. 📐 [LanceDB](https://github.com/lancedb/lancedb) [![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)
+### 12. 📐 [LanceDB](https://github.com/lancedb/lancedb) [![GitHub_Stars](https://img.shields.io/github/stars/lancedb/lancedb?style=social&color=white)](https://github.com/lancedb/lancedb/stargazers)
 
 - **Repository**: [lancedb/lancedb](https://github.com/lancedb/lancedb)
 - **License**: Apache 2.0
@@ -263,7 +263,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 13. 🚀 [Vespa](https://github.com/vespa-engine/vespa) [![GitHub stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
+### 13. 🚀 [Vespa](https://github.com/vespa-engine/vespa) [![GitHub_Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)
 
 - **Repository**: [vespa-engine/vespa](https://github.com/vespa-engine/vespa)
 - **License**: Apache 2.0
@@ -277,7 +277,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 14. 🛍️ [Marqo](https://github.com/marqo-ai/marqo) [![GitHub stars](https://img.shields.io/github/stars/marqo-ai/marqo?style=social&color=white)](https://github.com/marqo-ai/marqo/stargazers)
+### 14. 🛍️ [Marqo](https://github.com/marqo-ai/marqo) [![GitHub_Stars](https://img.shields.io/github/stars/marqo-ai/marqo?style=social&color=white)](https://github.com/marqo-ai/marqo/stargazers)
 
 - **Repository**: [marqo-ai/marqo](https://github.com/marqo-ai/marqo)
 - **License**: Apache 2.0
@@ -291,7 +291,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 15. ♾️ [Infinity](https://github.com/infiniflow/infinity) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
+### 15. ♾️ [Infinity](https://github.com/infiniflow/infinity) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/infinity?style=social&color=white)](https://github.com/infiniflow/infinity/stargazers)
 
 - **Repository**: [infiniflow/infinity](https://github.com/infiniflow/infinity)
 - **License**: Apache 2.0
@@ -305,7 +305,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 16. ⚡ [USearch](https://github.com/unum-cloud/usearch) [![GitHub stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social&color=white)](https://github.com/unum-cloud/usearch/stargazers)
+### 16. ⚡ [USearch](https://github.com/unum-cloud/usearch) [![GitHub_Stars](https://img.shields.io/github/stars/unum-cloud/usearch?style=social&color=white)](https://github.com/unum-cloud/usearch/stargazers)
 
 - **Repository**: [unum-cloud/usearch](https://github.com/unum-cloud/usearch)
 - **License**: Apache 2.0
@@ -319,7 +319,7 @@ Below is the definitive collection of open-source neural search platforms, vecto
 
 ---
 
-### 17. 📜 [Apache Lucene](https://github.com/apache/lucene) [![GitHub stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
+### 17. 📜 [Apache Lucene](https://github.com/apache/lucene) [![GitHub_Stars](https://img.shields.io/github/stars/apache/lucene?style=social&color=white)](https://github.com/apache/lucene/stargazers)
 
 - **Repository**: [apache/lucene](https://github.com/apache/lucene)
 - **License**: Apache 2.0
@@ -395,7 +395,7 @@ Contributions to keep this repository updated with the latest neural search inno
 1. **Fork this repository** to your GitHub account.
 2. **Create a descriptive feature branch**: `git checkout -b add/new-neural-search-tool`.
 3. **Add or edit entries** in `README.md` following the established table and list formatting:
-   - Provide the tool name, active GitHub repository link, official star badge, license, and factual 2-3 sentence overview.
+   - Provide the tool name, active GitHub repository link, official Stars_Badge, license, and factual 2-3 sentence overview.
    - For SaaS products, verify and include specific starting tier prices and explicit free trial / tier limits.
 4. **Ensure links and badges are valid**.
 5. **Submit a Pull Request** with a concise summary of the proposed addition.
